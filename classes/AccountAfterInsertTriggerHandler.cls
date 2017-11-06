@@ -1,3 +1,4 @@
+//test
 public class AccountAfterInsertTriggerHandler extends TriggerHandlerBase {
   public static List<Account> accountListAssociatedWithSSC{get;set;}  
   public static Set<Id> accountIdstAssociatedWithSSC{get;set;}

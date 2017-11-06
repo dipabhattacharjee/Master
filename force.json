@@ -1,0 +1,18 @@
+{
+    "autoRefresh": false,
+    "browser": "Google Chrome Canary",
+    "pollTimeout": 1200,
+    "debugOnly": true,
+    "debugFilter": "USER_DEBUG|FATAL_ERROR",
+    "apiVersion": "38.0",
+    "deployOptions": {
+        "checkOnly": false,
+        "testLevel": "runLocalTests",
+        "verbose": false,
+        "ignoreWarnings": true
+    },
+    "username": "dipa.bhattacharjee@gmail.com.dipa",
+    "password": "Shonai7654321#72X1ueii8bX42twuobaK5wFkj",
+    "url": "https://test.salesforce.com",
+    "autoCompile": true
+}
